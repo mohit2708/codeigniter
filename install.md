@@ -69,4 +69,7 @@ class MY_Router extends CI_Router {
     }
 }
 ```
+```php
+$route['default_controller'] = 'subfolder/controller/function';
+```
 * __Routes Define:-__  application/congif/routes.php
