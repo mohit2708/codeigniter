@@ -7,6 +7,7 @@
 ```php 
 $config['base_url'] = 'http://your-domain.com';
 $config['index_page'] = '';
+$config['uri_protocol']	= 'AUTO';
 ```
 * __.htaccess:-__ .htaccess file move the route file and paste code
 ```php
