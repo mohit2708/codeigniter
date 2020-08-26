@@ -8,7 +8,7 @@
 $config['base_url'] = 'http://your-domain.com';
 $config['index_page'] = '';
 ```
-* __ .htaccess:-__ .htaccess file move the route file and paste code
+* __.htaccess:-__ .htaccess file move the route file and paste code
 ```php
 <IfModule authz_core_module>
   RewriteEngine On
