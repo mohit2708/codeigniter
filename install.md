@@ -6,5 +6,6 @@
 * __config file change:-__ Go to the application/config/config.php  (Full path of the project folder)
 ```php 
 $config['base_url'] = 'http://your-domain.com';
+$config['index_page'] = '';
 ```
 * __Routes Define:-__  application/congif/routes.php
